@@ -10,6 +10,7 @@ The code file follows the following flow:
   4. Train a Linear Regression model to predict the readability scores obtained from the Muril-base model using these six features.
   5. Evaluate the model using cross-validation and statistical analysis (OLS).
   6. Visualize dataset distribution and results.
+
 The code also contains some holdover code from previous experiments, such as code for a random forest model, additional feature implementation, code to compile the complete dataset and its statistical values in a .csv file. These can be commented out, or added to to conduct additional experiments on the dataset.
 T4 GPU provided by a free Google Colab account is enough to run all the code given in the file under 15 minutes. 
 # Dependencies  
