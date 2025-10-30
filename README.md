@@ -22,3 +22,5 @@ T4 GPU provided by a free Google Colab account is enough to run all the code giv
   6. matplotlib & seaborn: For plotting (Heatmap, Violin plots).
 
 All the latest versions of each library have been used as of 30/10/2025, in Python version 3.12.12
+# Acknowledgements
+Tarek Naous, Michael J Ryan, Anton Lavrouk, Mohit Chandra, and Wei Xu. ReadMe++: Benchmarking multilingual language models for multi-domain readability assessment. In Yaser Al-Onaizan, Mohit Bansal, and Yun-Nung Chen, editors, Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing, pages 12230–12266, Miami, Florida, USA, November 2024. Association for Computational Linguistics. doi: 10.18653/v1/2024.emnlp-main.682. URL https://aclanthology.org/2024.emnlp-main.682/.
