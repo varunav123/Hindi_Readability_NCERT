@@ -20,3 +20,5 @@ T4 GPU provided by a free Google Colab account is enough to run all the code giv
   4. scikit-learn: For Linear Regression, metrics, and cross-validation.
   5. statsmodels: For OLS regression analysis (P-values, T-values).
   6. matplotlib & seaborn: For plotting (Heatmap, Violin plots).
+
+All the latest versions of each library have been used as of 30/10/2025, in Python version 3.12.12
