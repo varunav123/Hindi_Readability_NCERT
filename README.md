@@ -13,6 +13,8 @@ The code file follows the following flow:
 
 The code also contains some holdover code from previous experiments, such as code for a random forest model, additional feature implementation, code to compile the complete dataset and its statistical values in a .csv file. These can be commented out, or added to to conduct additional experiments on the dataset.
 T4 GPU provided by a free Google Colab account is enough to run all the code given in the file under 15 minutes. 
+The URL containing the dataset(combined) is given below:
+https://docs.google.com/spreadsheets/d/1bIWz6VKP4VwSvAOIyLDMQvFnxhzRZEkZUkcVl-AWcBs/edit?gid=520685546#gid=520685546
 # Dependencies  
   1. readmepp: For generating baseline readability scores (Hindi).
   2. indic-nlp-library: For Indic language processing. Can use in-built python string parsing tools instead, the current ipynb uses in-built methods.
